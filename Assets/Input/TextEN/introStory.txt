@@ -1,0 +1,5 @@
+﻿Hello! Welcome to the world of Zur!
+You are here looking for forgotten treasures!
+You will find 54 chests like this one in the world
+When you move near them they will open
+You can move pressing  ← and → or A and D

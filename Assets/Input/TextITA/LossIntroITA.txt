@@ -1,0 +1,11 @@
+﻿Nelle prossime 27 prove potrai soltanto perdere tesori
+Da un lato ci sono dei sacchetti che ti possono far perdere tesori o non farti perdere nulla
+in alto puoi vedere quanti sacchetti ti faranno perdere tesori
+sotto i sacchetti puoi vedere il valore della perdita
+dall'altro lato ci sono dei sacchetti che ti faranno perdere di sicuro dei tesori 
+ma saranno perdite di minor valore.
+Puoi scegliere un solo sacchetto cliccandoci sopra
+se avrai scelto il sacchetto che ti farà perdere parte del tesoro apparirà una monetina
+e il valore del tuo bottino diminuirà di conseguenza
+se invece avrai scelto il sacchetto che non ti farà perdere apparirà una ragnatela
+cerca di fare del tuo meglio!

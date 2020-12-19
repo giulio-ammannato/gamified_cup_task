@@ -1,0 +1,11 @@
+﻿Nei prossimi 27 scrigni potrai solamente vincere tesori
+Da un lato dello scrigno ci sono dei sacchetti che ti possono far vincere tesori o non farti vincere nulla
+in alto puoi vedere quanti sacchetti contengono tesori
+sotto i sacchetti puoi vedere il valore della vincita
+dall'altro lato ci sono dei sacchetti che ti faranno vincere di sicuro dei tesori 
+ma saranno di minor valore.
+Puoi scegliere un solo sacchetto cliccandoci sopra
+se avrai trovato un tesoro apparirà una monetina
+e il valore del tuo bottino aumenterà di conseguenza
+se invece non troverai niente apparirà una ragnatela
+cerca di fare del tuo meglio!

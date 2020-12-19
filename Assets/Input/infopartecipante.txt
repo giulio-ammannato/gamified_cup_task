@@ -1,0 +1,6 @@
+Informazioni del partecipante
+ID
+Genere
+Mese di nascita
+Anno di nascita
+clicca su OK per confermare le scelte

@@ -1,0 +1,4 @@
+﻿In the top left corner you can see how many chests you did already open
+There won't be 5 bags on each side every time.
+Sometimes you will have to choose between 3 bags
+and sometimes between two bags

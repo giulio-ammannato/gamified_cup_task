@@ -1,0 +1,4 @@
+﻿In alto a sinistra puoi vedere il numero di scrigni che hai aperto
+non ci saranno sempre 5 sacchetti per parte
+qualche volta dovrai scegliere fra 3
+oppure 2 sacchetti

@@ -1,0 +1,11 @@
+﻿In the next 27 chests you may only loose treasures
+On a side there will be some bags that may make you loose trearues or may not
+On the top you can see how many bags will make you loose treasures
+Under the bags you can see how many treasures you may loose
+On the other side there are bags that will make you loose treasures for sure 
+But you will loose less treasures
+You can choose only one bag by clicking on it
+A coin will appear if you did choose a loosing bag
+and the value of you loot will decrease accordingly
+A spider web will appear if you did choose a non loosing bag
+Try to do your best!

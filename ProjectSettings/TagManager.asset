@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GM
+  - WantToPlay
+  - MoneyCounterText
+  - TrialCounterText
+  - GainCounter
+  - LossCounter
+  - MainMenu
+  - GraphPlotter
+  - stats
+  - POH
+  - handleTextFile
+  - IM
+  - Circles
+  - MiddleSafe
+  - MiddleRisky
+  - Bags
+  - LeftText
+  - RightText
+  - UIOverlay
+  - ChestPointers
+  - LM
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 631948591
+    locked: 0
+  - name: InGameMenu
+    uniqueID: 2237439941
+    locked: 0
+  - name: Player
+    uniqueID: 4048253265
+    locked: 0
+  - name: Foreground
+    uniqueID: 946808091
+    locked: 0
+  - name: UI
+    uniqueID: 2479059625
+    locked: 0

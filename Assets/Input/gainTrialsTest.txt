@@ -1,0 +1,7 @@
+numberOfCaps, numberOfwinningCups, riskyamount, safeAmount, condition
+2,1,10,30,0
+2,1,20,30,0
+3,1,10,30,0
+3,2,10,30,0
+5,2,10,20,0
+5,1,10,30,0
