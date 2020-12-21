@@ -23,4 +23,4 @@ The efficacy of the gamified version of the cup task in assessing decision makin
 
 # Bibliography
 
-  * Levin, I. P., & Hart, S. S. (2003). Risk preferences in young children: Early evidence of individual differences in reaction to potential gains and losses. Journal of Behavioral Decision Making, 16(5), 397-413. doi: 10.1002/bdm.453
+  * Levin, I. P., & Hart, S. S. (2003). Risk preferences in young children: Early evidence of individual differences in reaction to potential gains and losses. Journal of Behavioral Decision Making, 16(5), 397-413. https://doi.org/10.1002/bdm.453
