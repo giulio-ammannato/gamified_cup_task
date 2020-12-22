@@ -2,7 +2,7 @@
 
 This program is fully funtcioning prototype of a gamified version of the Cup Task (Levin & Hart,2003). It aims at assessing decision making in risky conditions. For more information regarding the cup task: http://www.sjdm.org/dmidi/Cups_Task.html.
 
-To cite the Windows release: https://doi.org/10.5281/zenodo.4384135
+To cite the Windows release: https://doi.org/10.5281/zenodo.4384135.
 
 The code is [licensed under the GNU Affero General Public License v3.0](https://github.com/giulio-ammannato/gamified_cup_task/blob/main/LICENSE).
 
