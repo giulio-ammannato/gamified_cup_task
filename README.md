@@ -2,6 +2,8 @@
 
 This program is fully funtcioning prototype of a gamified version of the Cup Task (Levin & Hart,2003). It aims at assessing decision making in risky conditions. For more information regarding the cup task: http://www.sjdm.org/dmidi/Cups_Task.html.
 
+To cite the windows version:  DOI:10.5281/zenodo.4384135
+
 The code is [licensed under the GNU General Public License v3.0](https://github.com/giulio-ammannato/gamified_cup_task/blob/main/LICENSE).
 
 A compiled, running version of the game is available for Windows in the builds folder [here](https://github.com/giulio-ammannato/gamified_cup_task/tree/main/Builds). I've tested the game on Ubuntu as well but the  Linux compiled version exceed the 25MB limit.
