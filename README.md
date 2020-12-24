@@ -21,7 +21,7 @@ Some of the art assets used in this software were obtained from free online reso
 Thanks to [Viola Izzo](https://www.researchgate.net/profile/Viola_Izzo), [Caterina Primi](https://www.researchgate.net/profile/Caterina_Primi2), [Marianna Donati](https://www.researchgate.net/profile/Maria_Donati2) and [Joshua Weller](https://www.researchgate.net/profile/Joshua_Weller) for the support in creating this prototype.
 
 # Final note
-The efficacy of the gamified version of the cup task in assessing decision making is NOT YET validated. Prelimniary, unpublished results supports its efficacy but a peer-reveid paper is needed to confirm it.
+The efficacy of the gamified version of the cup task in assessing decision making is NOT YET validated. Prelimniary, unpublished results supports its efficacy but a peer-reveid paper is needed to confirm or confute them.
 
 # Bibliography
 
